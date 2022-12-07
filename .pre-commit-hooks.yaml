@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@2.29.0-integration-enabling-node-api.14"]
+    additional_dependencies: ["prisma@2.29.0-integration-itx.1"]
     minimum_pre_commit_version: '0'
