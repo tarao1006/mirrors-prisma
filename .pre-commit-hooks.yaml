@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.3.0-integration-add-prisma-fmt-wasm-to-version.19"]
+    additional_dependencies: ["prisma@4.3.0-integration-engines-4-3-0-14-feat-count-filter-2272ab800a0e3b9d4fb0c09374f0ec9fa5b7b56b.1"]
     minimum_pre_commit_version: '0'
