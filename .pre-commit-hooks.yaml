@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@2.30.0-integration-handle-promise-rejection.2"]
+    additional_dependencies: ["prisma@2.30.0-integration-switch-to-node-api.1"]
     minimum_pre_commit_version: '0'
