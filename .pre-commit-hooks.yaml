@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@3.2.0-integration-feat-cfw-support.5"]
+    additional_dependencies: ["prisma@3.2.0-integration-feat-cfw-support.6"]
     minimum_pre_commit_version: '0'
