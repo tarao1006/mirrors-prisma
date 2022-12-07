@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@3.14.0-integration-handle-fmt-panics.17"]
+    additional_dependencies: ["prisma@3.14.0-integration-handle-fmt-panics.18"]
     minimum_pre_commit_version: '0'
