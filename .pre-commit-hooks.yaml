@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@3.12.0-integration-chore-composite-filter-rewrite.1"]
+    additional_dependencies: ["prisma@3.12.0-integration-fix-vercel-schema-caching.1"]
     minimum_pre_commit_version: '0'
