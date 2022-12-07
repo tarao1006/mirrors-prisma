@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@3.3.0-integration-feat-data-proxy-client.20"]
+    additional_dependencies: ["prisma@3.3.0-integration-feat-data-proxy-client.21"]
     minimum_pre_commit_version: '0'
