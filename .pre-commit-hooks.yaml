@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@3.13.0-integration-remove-preview-from-migrate-diff-and-db-execute.3"]
+    additional_dependencies: ["prisma@3.13.0-integration-report-failed-message-is-never-displayed.1"]
     minimum_pre_commit_version: '0'
