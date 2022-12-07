@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.4.0-integration-engines-4-4-0-42-integration-query-raw-itx-mongo-89509fc6084c9ae736828beef25ad86b82179273.1"]
+    additional_dependencies: ["prisma@4.4.0-integration-engines-4-4-0-43-integration-query-raw-itx-mongo-e5ccee611e0dac785d27c75481672389bdf102dc.1"]
     minimum_pre_commit_version: '0'
