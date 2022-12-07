@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.2.0-integration-engines-4-2-0-14-query-engine-itx-isolation-1261b1df947d7ed71189ea4497d996e45522f3f6.1"]
+    additional_dependencies: ["prisma@4.2.0-integration-engines-4-2-0-15-integration-metric-renaming-1f993ff682f550307ef63b792a1c5f678f6963a8.1"]
     minimum_pre_commit_version: '0'
