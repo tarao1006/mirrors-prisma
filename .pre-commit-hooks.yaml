@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.4.0-integration-engines-4-4-0-4-integration-deno-preview-flag-3c1168fbf77b17ded4f89a480e467eddb5302d77.1"]
+    additional_dependencies: ["prisma@4.4.0-integration-engines-4-4-0-42-integration-query-raw-itx-mongo-89509fc6084c9ae736828beef25ad86b82179273.1"]
     minimum_pre_commit_version: '0'
