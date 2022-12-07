@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.3.0-integration-unskip-1-test.8"]
+    additional_dependencies: ["prisma@4.3.0-integration-use-prisma-fmt-wasm-for-cli-format.1"]
     minimum_pre_commit_version: '0'
