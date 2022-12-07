@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.3.0-integration-engines-4-3-0-30-feat-column-comparison-1f0b45043e4b824d5d4d9bc32a8819ae9d658bb6.1"]
+    additional_dependencies: ["prisma@4.3.0-integration-engines-4-3-0-7-feat-many-composite-unique-compound-f1fc590206e998566528f8b603475ea1f0a73270.1"]
     minimum_pre_commit_version: '0'
