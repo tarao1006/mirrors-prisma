@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@3.11.0-integration-chore-composite-list-filters.3"]
+    additional_dependencies: ["prisma@3.11.0-integration-fix-empty-path.1"]
     minimum_pre_commit_version: '0'
