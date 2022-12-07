@@ -1,0 +1,10 @@
+-   id: prisma
+    name: prisma
+    description: ''
+    entry: prisma
+    language: node
+    'types': [file]
+    args: []
+    require_serial: false
+    additional_dependencies: ["prisma@1.0.0"]
+    minimum_pre_commit_version: '0'
