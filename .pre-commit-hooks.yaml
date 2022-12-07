@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.7.0-integration-engines-4-7-0-46-integration-closed-itx-error-message-1fd4fa6d3e3c46ab375365a8faa84327ec51ece5.1"]
+    additional_dependencies: ["prisma@4.7.0-integration-engines-4-7-0-48-integration-closed-itx-error-message-2687e7ffbef0eff16081f50686187a4c326f090b.1"]
     minimum_pre_commit_version: '0'
