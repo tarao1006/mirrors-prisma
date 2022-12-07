@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.7.0-integration-itx-pdp-remove-header.2"]
+    additional_dependencies: ["prisma@4.7.0-integration-itx-pdp-remove-header.3"]
     minimum_pre_commit_version: '0'
