@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@2.31.0-integration-handle-promise-rejection.6"]
+    additional_dependencies: ["prisma@2.31.0-integration-json-nullability.1"]
     minimum_pre_commit_version: '0'
