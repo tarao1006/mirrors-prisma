@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.4.0-integration-engines-4-4-0-54-integration-database-assertion-violation-error-2-4eff3e6e5529e98980308c423c302b1fcfc72e6a.3"]
+    additional_dependencies: ["prisma@4.4.0-integration-engines-4-4-0-55-qe-transaction-write-conflict-911f8bae8f9b08719066939ba0aaff82c1fe4a50.1"]
     minimum_pre_commit_version: '0'
