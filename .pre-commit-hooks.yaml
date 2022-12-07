@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@2.17.0-integration-postinstall-test.10"]
+    additional_dependencies: ["prisma@2.17.0-integration-postinstall-test.13"]
     minimum_pre_commit_version: '0'
