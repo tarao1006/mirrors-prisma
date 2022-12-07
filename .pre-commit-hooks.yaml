@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@2.25.0-dev.13"]
+    additional_dependencies: ["prisma@2.25.0-dev.14"]
     minimum_pre_commit_version: '0'
