@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.2.0-integration-engines-4-2-0-26-integration-tracing-fix-0e187b820c59614bb23d16c1f22332c991de1892.1"]
+    additional_dependencies: ["prisma@4.2.0-integration-engines-4-2-0-32-fix-dmmf-test-8dd177a7c20a62f107b8d21725f1c1b7461d563b.1"]
     minimum_pre_commit_version: '0'
