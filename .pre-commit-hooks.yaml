@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@3.1.0-integration-data-proxy-engine.1"]
+    additional_dependencies: ["prisma@3.1.0-integration-studio-cli-esbuild-plugin.1"]
     minimum_pre_commit_version: '0'
