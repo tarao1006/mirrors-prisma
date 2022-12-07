@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.3.0-integration-engines-4-3-0-23-integration-tracing-high-res-time-727d86ca4ace27b862718bf9064f1f82269912c1.1"]
+    additional_dependencies: ["prisma@4.3.0-integration-engines-4-3-0-25-qe-multi-schema-eb81cea0c7c7c3624102ebb6bcba12b8b8a602cc.1"]
     minimum_pre_commit_version: '0'
