@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.6.0-integration-engines-4-6-0-44-integration-native-upsert-640c0f3e195da9bf119d17b2bd9a681ac3ec3a05.3"]
+    additional_dependencies: ["prisma@4.6.0-integration-engines-4-6-0-48-feat-find-or-throw-94a12d0378bb5463652b158a7088ab9b402927a1.1"]
     minimum_pre_commit_version: '0'
