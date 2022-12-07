@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.6.0-integration-client-extension-types.15"]
+    additional_dependencies: ["prisma@4.6.0-integration-engines-4-6-0-10-query-engine-mongo-logging-fix-12d17f6198de6f592ce3ff9b8e25669dae0bd284.1"]
     minimum_pre_commit_version: '0'
