@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@2.20.0-integration-prisma-cli-renamed-error-message.1"]
+    additional_dependencies: ["prisma@2.20.0-integration-prisma-cli-renamed-error-message.2"]
     minimum_pre_commit_version: '0'
