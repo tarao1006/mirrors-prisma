@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.2.0-integration-tracing-fix.5"]
+    additional_dependencies: ["prisma@4.2.0-integration-update-pkg-annotations.1"]
     minimum_pre_commit_version: '0'
