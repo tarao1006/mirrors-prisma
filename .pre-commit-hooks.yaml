@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.8.0-integration-engines-4-8-0-34-feat-dmmf-connected-engine-ee487e70470b452b3350f1e15ce530ac3361cab9.1"]
+    additional_dependencies: ["prisma@4.8.0-integration-engines-4-8-0-38-integration-alpine-vendored-ssl-0983130423ceaa98264c4825bfdf6d66907929f2.1"]
     minimum_pre_commit_version: '0'
