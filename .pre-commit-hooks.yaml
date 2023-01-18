@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.10.0-dev.2"]
+    additional_dependencies: ["prisma@4.10.0-integration-feat-pce-custom-fetch.1"]
     minimum_pre_commit_version: '0'
