@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.10.0-integration-remove-install-now-hack.1"]
+    additional_dependencies: ["prisma@4.10.0-integration-remove-introspection-engine.1"]
     minimum_pre_commit_version: '0'
