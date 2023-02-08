@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.10.0-integration-unblock-ci.1"]
+    additional_dependencies: ["prisma@4.10.0"]
     minimum_pre_commit_version: '0'
