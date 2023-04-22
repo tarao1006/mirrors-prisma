@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.14.0-integration-no-mappings.5"]
+    additional_dependencies: ["prisma@4.14.0-integration-windows-portability.1"]
     minimum_pre_commit_version: '0'
