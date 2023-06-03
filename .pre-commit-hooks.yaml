@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@4.16.0-integration-engines-4-16-0-3-integration-engineer-optimization-tests-ed188a18e0fafd8565c18baef3532f0d6822f2c7.1"]
+    additional_dependencies: ["prisma@4.16.0-integration-studio-direct-url.1"]
     minimum_pre_commit_version: '0'
