@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@5.1.0-integration-fix-client-types-mixed-input-types.1"]
+    additional_dependencies: ["prisma@5.1.0-integration-joel-try-comment.1"]
     minimum_pre_commit_version: '0'
