@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@5.4.0-integration-feat-driver-adapters-in-client.7"]
+    additional_dependencies: ["prisma@5.4.0-integration-fix-controlled-exports.1"]
     minimum_pre_commit_version: '0'
