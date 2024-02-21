@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@5.11.0-dev.3"]
+    additional_dependencies: ["prisma@5.11.0-integration-engines-5-10-0-13-feat-qe-specific-psl-performance2-b9f77ddd4b02a49b324c20b050de9087e29da4ed.1"]
     minimum_pre_commit_version: '0'
