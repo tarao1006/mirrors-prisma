@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@5.11.0-integration-fix-pg-import-ecosystem-tests.1"]
+    additional_dependencies: ["prisma@5.11.0-integration-fix-pipeline.2"]
     minimum_pre_commit_version: '0'
