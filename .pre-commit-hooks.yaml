@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@5.13.0-integration-diff-output.8"]
+    additional_dependencies: ["prisma@5.13.0-integration-engines-5-13-0-3-feat-exclude-selection-e76495825e7475c1f31801a6b5e233caa6edebb8.1"]
     minimum_pre_commit_version: '0'
