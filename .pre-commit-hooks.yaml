@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@5.13.0-integration-help-promo.3"]
+    additional_dependencies: ["prisma@5.13.0"]
     minimum_pre_commit_version: '0'
