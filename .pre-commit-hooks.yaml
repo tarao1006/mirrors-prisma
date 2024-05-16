@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@5.15.0-integration-feat-cli-pdp-optimize-tracking.1"]
+    additional_dependencies: ["prisma@5.15.0-integration-pr-24186.1"]
     minimum_pre_commit_version: '0'
