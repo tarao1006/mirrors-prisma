@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@5.16.0-integration-sqlite-fix.1"]
+    additional_dependencies: ["prisma@5.16.0-integration-vitest-workaround.1"]
     minimum_pre_commit_version: '0'
