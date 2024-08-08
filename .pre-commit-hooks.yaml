@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@5.19.0-integration-engines-5-19-0-3-integration-fix-d1-int64-3fe108cb35159b6838b9365ea06876b999e37136.1"]
+    additional_dependencies: ["prisma@5.19.0-integration-feat-typed-sql.1"]
     minimum_pre_commit_version: '0'
