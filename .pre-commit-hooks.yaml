@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@5.22.0-integration-engines-5-22-0-5-integration-itx-refactor-66947c4986688f81a10436a5c2a70b9db6014191.1"]
+    additional_dependencies: ["prisma@5.22.0-integration-engines-5-22-0-5-integration-itx-refactor-66947c4986688f81a10436a5c2a70b9db6014191.2"]
     minimum_pre_commit_version: '0'
