@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@5.23.0-integration-engines-5-23-0-2-add-schema-to-dmmf-6b2b29378ec9ecb0902a9ae4fa6302e9b16baf18.1"]
+    additional_dependencies: ["prisma@5.23.0-integration-otel-peer-deps.1"]
     minimum_pre_commit_version: '0'
