@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@5.23.0-dev.3"]
+    additional_dependencies: ["prisma@5.23.0-integration-engines-5-23-0-1-add-schema-to-dmmf-69b6e9d3bee92eeb76fcfa1ffb0a5b65cd7027b4.1"]
     minimum_pre_commit_version: '0'
