@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@6.2.0-integration-engines-6-2-0-9-feat-sqlite-enum-de83b89d1d4a474e646feab1929290e26fdf82d7.4"]
+    additional_dependencies: ["prisma@6.2.0"]
     minimum_pre_commit_version: '0'
