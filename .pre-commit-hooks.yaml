@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@6.3.0-integration-engines-6-3-0-2-integration-sql-nested-transactions5-9a074425ccc05b5ec12b88ec141ba5dea21472b7.2"]
+    additional_dependencies: ["prisma@6.3.0-integration-engines-6-3-0-5-integration-5-22-0-with-simplified-typeinfo-c41bc6f8547cc09d234cba92f0f78c0f8fd70b34.1"]
     minimum_pre_commit_version: '0'
