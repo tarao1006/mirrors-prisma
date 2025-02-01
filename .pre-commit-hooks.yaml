@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@6.4.0-integration-engines-6-4-0-1-fix-cockroachdb-slow-migrations-workaround-7f2ebe4987f4376912fd7d7e638148a3943dbc78.1"]
+    additional_dependencies: ["prisma@6.4.0-integration-engines-6-4-0-5-chore-rename-error-kinds-6be5d359e3dccb7e8b623fad8d36236047e2936f.1"]
     minimum_pre_commit_version: '0'
