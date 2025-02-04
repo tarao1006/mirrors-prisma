@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@6.4.0-integration-engines-6-4-0-5-chore-rename-error-kinds-6be5d359e3dccb7e8b623fad8d36236047e2936f.1"]
+    additional_dependencies: ["prisma@6.4.0-integration-engines-6-4-0-7-chore-rename-error-kinds-6ade8eb07ce6ee78cd81baad86b254c457300340.1"]
     minimum_pre_commit_version: '0'
