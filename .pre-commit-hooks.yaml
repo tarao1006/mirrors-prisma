@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@6.10.0-integration-fix-orm-1006-fix-subcommands-like-init.4"]
+    additional_dependencies: ["prisma@6.10.0-integration-fix-orm-1006-fix-subcommands-like-init.5"]
     minimum_pre_commit_version: '0'
