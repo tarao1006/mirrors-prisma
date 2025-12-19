@@ -6,5 +6,5 @@
     'types': [file]
     args: []
     require_serial: false
-    additional_dependencies: ["prisma@7.2.0"]
+    additional_dependencies: ["prisma@7.3.0-integration-fix-6-19-0-cloudflare-accelerate-engine.1"]
     minimum_pre_commit_version: '0'
